@@ -7,7 +7,7 @@ pet2 = Cachorro("Lulu", 2, "Golden")
 pet3 = Cachorro("Zeus", 2, "Pitbull")
 pet4 = Cachorro("Raimundin", 2, "Caramelo")
 pet5 = Gato("Zidaninho", 4, "Orange cat")
-pet6 = Gato("Eliçandra", 3, "Siamês")
+pet6 = Gato("Zidane", 3, "Siamês")
 pet7 = Gato("Nerfado", 2, "Persa")
 pet8 = Gato("Charlote", 2, "Caramelo")
 
